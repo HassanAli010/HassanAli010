@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Hassan Ali</h1>
-<h3 align="center">A passionate Computer Science Engineer from Pakistan</h3>
+<h3 align="center">A Passionate Computer Science Engineer from Pakistan</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=hassanali010&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-- 🌱 I’m currently learning **MongoDB and Node.js**
+- 🌱 I’m currently learning **React.js and Node.js**
   
 - 👯 I’m looking to collaborate on [Quiz App](https://github.com/HassanAli010/Client_QuizApp)
 

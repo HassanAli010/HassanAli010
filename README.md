@@ -69,6 +69,20 @@
   </a>
 </p>
 
+<h3 align="left">Additional Skills:</h3>
+
+- **Front-End Development**: HTML, CSS, JavaScript, React.js
+- **Back-End Development**: Node.js
+- **Databases**: MongoDB
+- **Web Design**: Figma
+- **Version Control**: Git, GitHub
+- **Web APIs**: RESTful APIs
+- **Performance Optimization**: Caching, CDNs
+- **Package Management**: NPM, Vite
+- **Hosting**: Netlify, Vercel, Render
+- **Styling**: CSS3, Tailwind CSS, GSAP
+- **Other Skills**: Data Science, Excel
+
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassanali010&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>

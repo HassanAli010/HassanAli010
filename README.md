@@ -1,12 +1,8 @@
-Here's an optimized and refined version of your GitHub profile readme:
-
----
-
-<h1 align="center">Hi 👋, I'm Hassan Ali</h1>
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQGFXAUYOpTa_w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706884819832?e=1736380800&v=beta&t=7wLavSG0Qr_V3PcX26WVkdQk_dS7yY6ZxEmIQIdgSf0" alt="Hassan Ali Banner" width="100%"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Hassan Ali</h1>
 <h3 align="center">A passionate Computer Science Engineer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassanali010&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>

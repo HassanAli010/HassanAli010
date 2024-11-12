@@ -19,7 +19,7 @@
 
 - 📫 Reach me at **hassan7538216@gmail.com**
 
-- 📄 View my resume [here](https://drive.google.com/file/d/1wmNG8d-njnlIa8spexjD58uANKT-HNul/view?usp=drive_link)
+- 📄 View my resume [here](https://drive.google.com/file/d/1uscEAjry55DJgArmnJf68AQVhLBk5Jgt/view?usp=sharing)
 
 - ⚡ **Fun Fact:** I’m always dreaming up new ways to make websites more engaging and experimenting with creative animations using GSAP and CSS wizardry. To me, every pixel has a purpose, and every line of code tells part of the story. Let’s turn ideas into reality together! ✨
 

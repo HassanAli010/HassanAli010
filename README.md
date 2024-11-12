@@ -69,7 +69,7 @@
   </a>
 </p>
 
-<h3 align="left">Additional Skills:</h3>
+<h3 align="left">Skills:</h3>
 
 - **Front-End Development**: HTML, CSS, JavaScript, React.js
 - **Back-End Development**: Node.js
